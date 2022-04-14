@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #2750",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/2750.png",
+  "dna": "7759f98ab2d286e53ee6d1439fe8de7a22ca7de3",
+  "edition": 2750,
+  "date": 1649933171470,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sensei Garden"
+    },
+    {
+      "trait_type": "Lightning BG",
+      "value": "Astral Lightning"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "Forest Fairy Arrows Quiver"
+    },
+    {
+      "trait_type": "Hand Female",
+      "value": "Human Dark Amethyst + Brown Fan"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Lined Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Forest Fairy Light Armor"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Purple Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Kage Akugumus Horn"
+    },
+    {
+      "trait_type": "Lightning FG",
+      "value": "Astral Lightning 2"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

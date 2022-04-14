@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #1914",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/1914.png",
+  "dna": "76499aa599c9e2297412537fcdf81bd448d6e01a",
+  "edition": 1914,
+  "date": 1649930973712,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple Background"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon Closed Female",
+      "value": "Purple Umbrella"
+    },
+    {
+      "trait_type": "Hand Closed Female",
+      "value": "Human Dark Amethyst + Closed Hand"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Assassine Mask"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Dark Blue Kimono with blue Arrows"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Glowing Forest Fairy Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Bitcoin Cash Headband 2"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Senseis Fire Rain"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

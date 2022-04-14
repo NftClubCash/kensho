@@ -1,0 +1,43 @@
+{
+  "name": "Kensho #2653",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/2653.png",
+  "dna": "fdbfd48351219c7061cfebf6e615112d6dcf7c15",
+  "edition": 2653,
+  "date": 1649932900142,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue Background"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "Invisible Sleeth"
+    },
+    {
+      "trait_type": "Hand Female",
+      "value": "Human Tanned + Throwing Star"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Light Open Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Adept Robe"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Happy Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Purple Hair"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Bloody Sky"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
