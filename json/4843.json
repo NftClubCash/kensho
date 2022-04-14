@@ -1,0 +1,59 @@
+{
+  "name": "Kensho #4843",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/4843.png",
+  "dna": "3c6610f819357ec6200f712bffdd2ad65a9d0101",
+  "edition": 4843,
+  "date": 1649870990557,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moonlight"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon Closed",
+      "value": "Red Umbrella"
+    },
+    {
+      "trait_type": "Hand Closed",
+      "value": "Kage Akumu + Closed Hand"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Aros Jacket"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Undead Ghul Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Catfan Bandana"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "Ball Chain"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

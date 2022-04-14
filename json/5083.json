@@ -1,0 +1,59 @@
+{
+  "name": "Kensho #5083",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/5083.png",
+  "dna": "330b07d852bf4da88e593b9f70ce57843bbf5ec8",
+  "edition": 5083,
+  "date": 1649871896042,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Turquoise Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon Closed",
+      "value": "Swordsman Sword"
+    },
+    {
+      "trait_type": "Hand Closed",
+      "value": "Human Tribe Closed Hand"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Dark Blue Light Jacket"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vampyr Fangs"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Eyes Side Look"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aros Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

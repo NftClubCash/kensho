@@ -1,0 +1,59 @@
+{
+  "name": "Kensho #5009",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/5009.png",
+  "dna": "e5095a70116bd3fef78d4b9f69a3927a505a9fdd",
+  "edition": 5009,
+  "date": 1649871616920,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "Inear Headphone"
+    },
+    {
+      "trait_type": "Weapon Closed",
+      "value": "Fishing Rod"
+    },
+    {
+      "trait_type": "Hand Closed",
+      "value": "Human Dark Amethyst Closed Hand"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Winter Jacket"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile with light Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mysterious Forest Jhin Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "Demon God Thorn"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
