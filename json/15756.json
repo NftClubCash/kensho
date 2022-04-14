@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #1757",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/1757.png",
+  "dna": "f0c1ef5c4de7cf3c8a4aeb39b1ff49359dff5eed",
+  "edition": 1757,
+  "date": 1649930579721,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moonlight"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "Forest Fairy Arrows Quiver"
+    },
+    {
+      "trait_type": "Weapon Closed Female",
+      "value": "Legendary Bat"
+    },
+    {
+      "trait_type": "Hand Closed Female",
+      "value": "Human Tanned + Closed Hand"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Light Open Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Purple Kimono"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Heavens Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Dark Jhin Mane"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Darker Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8507",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8507.png",
+  "dna": "b4c8533de689591dd13cc0db1abef2e7bbb7fd8b",
+  "edition": 8507,
+  "date": 1649883883875,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Graveyard"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Dark Elve + Brown Fan"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Saxors Robe"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Toothpick"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "Neck"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

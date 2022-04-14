@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8921",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8921.png",
+  "dna": "75bdacde7ef09e8045b862dd3aa173968ab936d2",
+  "edition": 8921,
+  "date": 1649885300745,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky Temple"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "Long Inear Headphone"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human + None"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Gray Hoodie Sweater"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Toothpick"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mocked Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aros Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

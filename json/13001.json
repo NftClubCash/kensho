@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #1",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/1.png",
+  "dna": "15e3e4056a6e44471d5436114789c90530a5a922",
+  "edition": 1,
+  "date": 1649939304057,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue Background"
+    },
+    {
+      "trait_type": "Blood River BG",
+      "value": "Blood River"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon Closed",
+      "value": "Fishing Rod"
+    },
+    {
+      "trait_type": "Hand Closed Ghoul",
+      "value": "Undead Ghoul + Closed Hand"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Blue Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Blood River FG",
+      "value": "Blood River 1"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

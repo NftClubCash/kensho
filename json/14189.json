@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #190",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/190.png",
+  "dna": "e761ff6087bac21a5e6adc1040fbd1c485a2ab12",
+  "edition": 190,
+  "date": 1649926525665,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "Ghost Lights"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "Forest Fairy Arrows Quiver"
+    },
+    {
+      "trait_type": "Weapon Closed Female",
+      "value": "Commander Sword"
+    },
+    {
+      "trait_type": "Hand Closed Female",
+      "value": "Forest Fairy + Closed Hand"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Happy Laugh"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Adept Robe"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Happy Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Blue Long Hair 1"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

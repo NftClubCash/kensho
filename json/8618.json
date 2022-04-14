@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8618",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8618.png",
+  "dna": "1b9af9a518a2a514ca0c75710e99ee5dc183c037",
+  "edition": 8618,
+  "date": 1649884259810,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Hell Entry"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Dark Amethyst + BCH Cup"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Prof Jacket"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Invisible Mouth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Undead Ghul Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Black Sleephold"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Eben Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

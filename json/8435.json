@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8435",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8435.png",
+  "dna": "093f8ca584cd92cd25a0c1d1b18013d9832f9cb5",
+  "edition": 8435,
+  "date": 1649883632209,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Dark Amethyst + Brown Fan"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Brown Kimono with Shirt"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Undead Ghul Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tousled Blonde Hair With Brown Headband"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8791",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8791.png",
+  "dna": "9c124dfceab6de09d37b109d3c75af4e211f5c58",
+  "edition": 8791,
+  "date": 1649884858168,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Park Alley"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "Inear Headphone"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Demon God + Dark Fan"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Gray Blue Hoodie"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile with light Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turquoise Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "Neck"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

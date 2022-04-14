@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8946",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8946.png",
+  "dna": "067eb6933611d51b1b357886bfd3aed1c0dc223e",
+  "edition": 8946,
+  "date": 1649885387076,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Tanned + Finger Up"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Blue Jacket"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry Mouth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Bandana"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

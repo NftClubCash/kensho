@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8690",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8690.png",
+  "dna": "def32ebb2763e136a4ec1d3f63552260a308c74b",
+  "edition": 8690,
+  "date": 1649884513724,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sensei Garden"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Tribe + Dark Fan"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "White Red Kimono"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Zombie Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

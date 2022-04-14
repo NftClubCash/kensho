@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8446",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8446.png",
+  "dna": "8c0c68f683c5db9023b6ea6040a9d13f07ac2790",
+  "edition": 8446,
+  "date": 1649883672944,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Graveyard"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Ruby + Throwing Star"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Yellow Sport Jacket"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubblegum"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Elve Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

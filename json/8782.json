@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8782",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8782.png",
+  "dna": "346ca5e2b4ac7ee0d5a6eaec3c7b525df530c49e",
+  "edition": 8782,
+  "date": 1649884828756,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Valley"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Dark Amethyst + Brown Fan"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Lost Wind Commando Suit"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Elve Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Hair with Cap"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

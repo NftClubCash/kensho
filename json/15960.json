@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #1961",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/1961.png",
+  "dna": "5d3b0265a06b2b5a91cc7f27803b3a50a21f6f74",
+  "edition": 1961,
+  "date": 1649931094286,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey Background"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon Closed Female",
+      "value": "Swordsman Sword"
+    },
+    {
+      "trait_type": "Hand Closed Female",
+      "value": "Human Tanned + Closed Hand"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Tiny Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "School Uniform"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Purple Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Eternal Fire Ghost Flame"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Blossom"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

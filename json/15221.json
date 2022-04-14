@@ -1,0 +1,43 @@
+{
+  "name": "Kensho #1222",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/1222.png",
+  "dna": "1bc0d3e792c38685848a0a420064bc5d7a13e88f",
+  "edition": 1222,
+  "date": 1649929392794,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Female",
+      "value": "Human Tanned + Gloves"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Tiny Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Purple Kimono"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Happy Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Red Hair with Ribbon"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

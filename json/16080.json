@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #2081",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/2081.png",
+  "dna": "4ee9408d448a0c904f5007fb961a4fe01cccc8cd",
+  "edition": 2081,
+  "date": 1649931419007,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue Background"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "Invisible Sleeth"
+    },
+    {
+      "trait_type": "Hand Open Female",
+      "value": "Human Tanned + Open Hand"
+    },
+    {
+      "trait_type": "Weapon Open",
+      "value": "Eternal Flame"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Forest Fairy Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Kimono Bikini"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Yellow Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Short Blonde Hair"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Eternal Flame Rain"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

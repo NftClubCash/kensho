@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8671",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8671.png",
+  "dna": "e0312cefce5e342a9fb95d099e37b84a05c985f3",
+  "edition": 8671,
+  "date": 1649884448525,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Forgotten Forest"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Pale + Brown Fan"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Shirt with Orange Stripe"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Toothpick"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Undead Ghul Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "Neck"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

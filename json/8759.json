@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8759",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8759.png",
+  "dna": "fbc52c92bcd7466728748826c322cfbcfd3d97f6",
+  "edition": 8759,
+  "date": 1649884748920,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Ruby + Brown Fan"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Blue Jacket with red Shirt"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Battle Shout"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Ghul Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Nerdy Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "NFT Club Headband"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "Ball Chain"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

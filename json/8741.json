@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8741",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8741.png",
+  "dna": "153e70796c7a4e10749e6edba1a3755f04d21eb4",
+  "edition": 8741,
+  "date": 1649884688469,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Graveyard"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "Smoke"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Dark Amethyst + Bandages"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Shirt with Orange Stripe"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vocal Singing"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mysterious Forest Jhin Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aros Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

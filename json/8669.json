@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8669",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8669.png",
+  "dna": "0534826a77f9fdb7b2f5335380a098d6d9ced930",
+  "edition": 8669,
+  "date": 1649884441082,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Turquoise Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Dark Amethyst + Finger Up"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Kimono Blue"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Mouth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mocked Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "NFT Club Headband"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

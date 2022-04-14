@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #2085",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/2085.png",
+  "dna": "dd6535b637b2cdeae42cfded9c5e1b64f22f266b",
+  "edition": 2085,
+  "date": 1649931429658,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Turquoise Background"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "Forest Fairy Arrows Quiver"
+    },
+    {
+      "trait_type": "Hand Open Female",
+      "value": "Human Dark Amethyst + Open Hand"
+    },
+    {
+      "trait_type": "Weapon Open",
+      "value": "Golden Flame"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Lined Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Kimono Bikini"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Dark Blue Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Rasta Curls"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Undead Sparkle"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

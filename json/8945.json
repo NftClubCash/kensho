@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8945",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8945.png",
+  "dna": "d9c9d0288b3584e7d71b6e388286bb3210b3bbf7",
+  "edition": 8945,
+  "date": 1649885383810,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Heavens Gate"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Zombie + None"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "White Red Kimono"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bitcoin Speech"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Short Blonde Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Kensho #2563",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/2563.png",
+  "dna": "c21f64ce2d81db57b6814cb616ce315aff5a16cc",
+  "edition": 2563,
+  "date": 1649932665194,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Turquoise Background"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Female",
+      "value": "Forest Fairy + Bitcoin Cash Cup"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Light Open Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Forest Fairy Light Armor"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Glowing Forest Fairy Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Purple Hair"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Eternal Flame Rain"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

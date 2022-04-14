@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8978",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8978.png",
+  "dna": "5d5e1042432fe9d90e373a086d8b318e2b3c4bbe",
+  "edition": 8978,
+  "date": 1649885498550,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red Sea"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "Mysterious Smoke"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human + Dark Fan"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Brown Leather Jacket"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Guru Yaris Mouth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Guru Yaris Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Hat"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

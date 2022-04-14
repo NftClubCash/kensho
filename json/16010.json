@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #2011",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/2011.png",
+  "dna": "e7011f482577c93708e2c9bdbf7042cb7560d823",
+  "edition": 2011,
+  "date": 1649931225747,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Turquoise Background"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon Closed Female",
+      "value": "Fishing Rod"
+    },
+    {
+      "trait_type": "Hand Closed Female",
+      "value": "Human Tanned + Closed Hand"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Happy Laugh"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Purple Kimono"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Yellow Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Eben Hair"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Undead Sparkle"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Kensho #1231",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/1231.png",
+  "dna": "c5a04192e94c1105cc6a7f30311742fa02dce5de",
+  "edition": 1231,
+  "date": 1649929412092,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Female",
+      "value": "Human Dark Amethyst + Gloves"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Happy Laugh"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "School Uniform"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Dark Blue Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Black Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

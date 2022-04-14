@@ -1,0 +1,43 @@
+{
+  "name": "Kensho #1411",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/1411.png",
+  "dna": "0dc81b4bb0bf827fbebf8b5d2b06403f11bc7032",
+  "edition": 1411,
+  "date": 1649929808057,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Night"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Female",
+      "value": "Human Tanned + Finger Up"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Tiny Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "School Uniform"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Happy Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "NFT Club Headband"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

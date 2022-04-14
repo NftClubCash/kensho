@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8568",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8568.png",
+  "dna": "e2995953e167dc3db3a17505aa8cce1e8267b86a",
+  "edition": 8568,
+  "date": 1649884085427,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Hell Entry"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Tribe + Throwing Star"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Blue Jacket"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark purple Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

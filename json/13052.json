@@ -1,0 +1,43 @@
+{
+  "name": "Kensho #53",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/53.png",
+  "dna": "5d5667c9d8f8029294b140e5adf781e28f76ad38",
+  "edition": 53,
+  "date": 1649939434273,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon Closed",
+      "value": "Lantern"
+    },
+    {
+      "trait_type": "Hand Closed Ghoul",
+      "value": "Undead Ghoul + Closed Hand"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Brown Leather Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #1107",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/1107.png",
+  "dna": "af08b80a35437889069b679b25683347da6ba755",
+  "edition": 1107,
+  "date": 1649929121962,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Hell Entry"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Open Female",
+      "value": "Forest Fairy + Open Hand"
+    },
+    {
+      "trait_type": "Weapon Open",
+      "value": "Golden Flame"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Assassine Mask"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Luna Kimono"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Yellow Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Lost Warrior Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

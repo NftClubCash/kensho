@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #209",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/209.png",
+  "dna": "2d02545f90f332290c3ddec31c8c65c7abbbbf03",
+  "edition": 209,
+  "date": 1649926577649,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Turquoise Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "Invisible Sleeth"
+    },
+    {
+      "trait_type": "Weapon Closed Female",
+      "value": "Great Sword"
+    },
+    {
+      "trait_type": "Hand Closed Female",
+      "value": "Human Dark Amethyst + Closed Hand"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Forest Fairy Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "School Uniform"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Purple Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Artist Cap"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

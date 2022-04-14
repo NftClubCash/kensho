@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8584",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8584.png",
+  "dna": "9c93ba8093332f3b79d3774804a01bc0151a5a82",
+  "edition": 8584,
+  "date": 1649884138474,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Tribe + Bandages"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Turquoise jacket with pink Shirt and golden Chain"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dark Jhin Fangs"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Zombie Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Short Blue Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "Headphones"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

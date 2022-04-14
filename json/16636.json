@@ -1,0 +1,43 @@
+{
+  "name": "Kensho #2637",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/2637.png",
+  "dna": "3c6245e08f8d23c39370a8f429cc3c347eea765a",
+  "edition": 2637,
+  "date": 1649932857389,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue Background"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Female",
+      "value": "Human Dark Amethyst + Throwing Star"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Light Open Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "School Uniform"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Yellow Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Long bright purple Hair"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Undead Sparkle"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

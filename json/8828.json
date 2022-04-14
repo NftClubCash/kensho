@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8828",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8828.png",
+  "dna": "b3ea215c69e4d014d7d29e49f0b317b61d78e632",
+  "edition": 8828,
+  "date": 1649884982345,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Heavens Gate"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Ruby + Brown Fan"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Kimono Red"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Corn Toothpick"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloody Demon Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Guru Yaris Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

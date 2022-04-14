@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8592",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8592.png",
+  "dna": "65f46a86aee5bcf453ae14a7f22b580b7ae4410b",
+  "edition": 8592,
+  "date": 1649884164600,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red Sea"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Vampyr + Brown Fan"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Shirt"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blunt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Corrupted Dark Jhin Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saxors Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

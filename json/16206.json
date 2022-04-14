@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #2207",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/2207.png",
+  "dna": "b219310c4b4384ac074fde8fea492c596b1df771",
+  "edition": 2207,
+  "date": 1649931756638,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Turquoise Background"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Open Female",
+      "value": "Human Dark Amethyst + Open Hand"
+    },
+    {
+      "trait_type": "Weapon Open",
+      "value": "Eternal Flame"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Light Open Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Adept Robe"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Heavens Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Dark Red Hair with Headband"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Eternal Flame Rain"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

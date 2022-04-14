@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8651",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8651.png",
+  "dna": "29fbc4f4714f04a47839e054d7c7c7494f7b9da9",
+  "edition": 8651,
+  "date": 1649884376973,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Graveyard"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Amethyst + Bandages"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "None"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "Face Acc"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Mouth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Long bright purple Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

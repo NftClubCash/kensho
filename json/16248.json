@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #2249",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/2249.png",
+  "dna": "5d7d01938c41da9edf97508b06cbca08bc01119f",
+  "edition": 2249,
+  "date": 1649931868167,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Turquoise Background"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Open Female",
+      "value": "Human Dark Amethyst + Open Hand"
+    },
+    {
+      "trait_type": "Weapon Open",
+      "value": "Astral Lightning Bolt"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Happy Laugh"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Dark Blue Kimono with blue Arrows"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Yellow Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Dark Hair"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Bloody Sky"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

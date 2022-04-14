@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #411",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/411.png",
+  "dna": "36478254618b423b985dab3b204b6aa3c9a0ea5c",
+  "edition": 411,
+  "date": 1649927142639,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Hell Entry"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon Closed Female",
+      "value": "Swordsman Sword"
+    },
+    {
+      "trait_type": "Hand Closed Female",
+      "value": "Human Dark Amethyst + Closed Hand"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Lined Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "School Uniform"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Happy Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Green Hair"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

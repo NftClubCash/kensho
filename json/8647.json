@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8647",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8647.png",
+  "dna": "4734a18c3e3af4178aa26f2c64df4fa4941db99e",
+  "edition": 8647,
+  "date": 1649884362771,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "Senseis Blood Crows"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Tanned + Brown Fan"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Saxors Robe"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turquoise Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

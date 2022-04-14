@@ -1,0 +1,43 @@
+{
+  "name": "Kensho #2482",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/2482.png",
+  "dna": "5c9ec3fef649d9eda77e8df8e41e9c834baa2052",
+  "edition": 2482,
+  "date": 1649932484021,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Turquoise Background"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Female",
+      "value": "Human Tanned + Gloves"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Tiny Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Kimono Bikini"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Yellow Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Fukitsu Senshis Hair"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Shining Butterfly"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #2350",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/2350.png",
+  "dna": "808b4bc37a1df4375e0d4ff5146dc6bad64e1171",
+  "edition": 2350,
+  "date": 1649932142284,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Night"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "Invisible Sleeth"
+    },
+    {
+      "trait_type": "Hand Open Female",
+      "value": "Human Dark Amethyst + Open Hand"
+    },
+    {
+      "trait_type": "Weapon Open",
+      "value": "Eternal Flame"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Happy Laugh"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Priestress Robe "
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Glowing Forest Fairy Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Eben Hair"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Demon Temptress Fire"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

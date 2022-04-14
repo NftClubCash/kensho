@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8549",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8549.png",
+  "dna": "a82a83f7f67a5f14113e8e850d1562b262856208",
+  "edition": 8549,
+  "date": 1649884024070,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "Mysterious Smoke"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Tribe + Brown Fan"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Aros Jacket"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Mouth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mocked Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Short Blue Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

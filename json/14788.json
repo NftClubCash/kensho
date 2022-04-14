@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #789",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/789.png",
+  "dna": "5634f9da64a296a92c6d7e791293a30d4acca55c",
+  "edition": 789,
+  "date": 1649928225065,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Turquoise Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "Forest Fairy Arrows Quiver"
+    },
+    {
+      "trait_type": "Weapon Closed Female",
+      "value": "Fishing Rod"
+    },
+    {
+      "trait_type": "Hand Closed Female",
+      "value": "Human Dark Amethyst + Closed Hand"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Light Open Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Priestress Robe "
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Yellow Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Tousled Blonde Hair with brown Headband"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

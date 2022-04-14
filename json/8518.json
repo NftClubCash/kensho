@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8518",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8518.png",
+  "dna": "755986ea9f50a5cad74479a4229b243dba804698",
+  "edition": 8518,
+  "date": 1649883922623,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Graveyard"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Dark Amethyst + Finger Up"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Lost Wind Commando Suit"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Mouth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Black Sleephold"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Elve Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

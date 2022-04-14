@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #1985",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/1985.png",
+  "dna": "0db17c04ab88f388285784f3c5ded967518b98a2",
+  "edition": 1985,
+  "date": 1649931156988,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky Temple"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon Closed Female",
+      "value": "Great Sword"
+    },
+    {
+      "trait_type": "Hand Closed Female",
+      "value": "Human Tanned + Closed Hand"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Light Open Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Forest Fairy Light Armor"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Dark Blue Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Eternal Flame Rain"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

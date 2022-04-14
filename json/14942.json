@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #943",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/943.png",
+  "dna": "912544fe026ba8074784a28e920991b6648c813d",
+  "edition": 943,
+  "date": 1649928675189,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Graveyard"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Open Female",
+      "value": "Human Tanned + Open Hand"
+    },
+    {
+      "trait_type": "Weapon Open",
+      "value": "Burning Flame"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Forest Fairy Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Adept Robe"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Purple Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Guru Yaris Hair"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

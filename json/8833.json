@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8833",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8833.png",
+  "dna": "d44fce5c35a21846f8f74f7bde23a02bae8fe202",
+  "edition": 8833,
+  "date": 1649884998845,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "Mysterious Smoke"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Dark Amethyst + Gloves"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Shirt"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Battle Shout"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fukitsu Senshis Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "Neck"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

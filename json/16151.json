@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #2152",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/2152.png",
+  "dna": "d7e85405ed0fa5fa0ba93557f809f8b4c8229abf",
+  "edition": 2152,
+  "date": 1649931606767,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey Background"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Open Female",
+      "value": "Human Tanned + Open Hand"
+    },
+    {
+      "trait_type": "Weapon Open",
+      "value": "Astral Lightning Bolt"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Light Open Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Adept Robe"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Purple Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Kage Akugumus Horn"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Fire Jhin Fire"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

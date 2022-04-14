@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8779",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8779.png",
+  "dna": "9b4852b34733ee5f792a406ffc6f4f896da346fc",
+  "edition": 8779,
+  "date": 1649884818377,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Forgotten Forest"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Amethyst + Brown Fan"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Shirt with Orange Stripe"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "White Cigarette"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Long bright purple Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

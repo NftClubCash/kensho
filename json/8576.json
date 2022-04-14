@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8576",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8576.png",
+  "dna": "0c477b13c52bfeef92fbeab9eda373bfc4bb423a",
+  "edition": 8576,
+  "date": 1649884112733,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Valley"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Pale + Bandages"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Black Bomber Jacket"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "Scar"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

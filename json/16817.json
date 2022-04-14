@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #2818",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/2818.png",
+  "dna": "930a25e14891fe801e11689c4a58401774cbed85",
+  "edition": 2818,
+  "date": 1649933371610,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Park Alley"
+    },
+    {
+      "trait_type": "Smoke BG",
+      "value": "Smoke"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "Invisible Sleeth"
+    },
+    {
+      "trait_type": "Hand Female",
+      "value": "Human Tanned + Dark Fan"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Lined Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Dark Blue Kimono with blue Arrows"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Happy Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Tousled Blonde Hair with brown Headband"
+    },
+    {
+      "trait_type": "Smoke FG",
+      "value": "Smoke 1"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

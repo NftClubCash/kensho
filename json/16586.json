@@ -1,0 +1,43 @@
+{
+  "name": "Kensho #2587",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/2587.png",
+  "dna": "c10c8c14eec7faf88fdd6c9537e259859c3c3a9f",
+  "edition": 2587,
+  "date": 1649932724874,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sensei Garden"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Female",
+      "value": "Human Dark Amethyst + Throwing Star"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Tiny Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "School Uniform"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Yellow Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Kage Akugumus Horn"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Shiny Green Leaves"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

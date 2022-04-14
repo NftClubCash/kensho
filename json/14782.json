@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #783",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/783.png",
+  "dna": "1a135918e62e0f64dc72e54e6d3b15abfbbe095b",
+  "edition": 783,
+  "date": 1649928208055,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon Closed Female",
+      "value": "Ancient Banner"
+    },
+    {
+      "trait_type": "Hand Closed Female",
+      "value": "Human Tanned + Closed Hand"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Light Open Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Dark Blue Kimono with blue Arrows"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Happy Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Kage Akugumus Horn"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

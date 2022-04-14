@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #31",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/31.png",
+  "dna": "c264ec0b86cc392702d322c42bdc7f0b8e879d30",
+  "edition": 31,
+  "date": 1649938319402,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey Background"
+    },
+    {
+      "trait_type": "Demon God Lightning BG",
+      "value": "Demon God Lightning 1"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon Closed Female",
+      "value": "Swordsman Sword"
+    },
+    {
+      "trait_type": "Hand Closed Demon",
+      "value": "Demon Temptress + Closed Hand"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Light Open Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Dark Blue Kimono with blue Arrows"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Purple Eyes"
+    },
+    {
+      "trait_type": "Demon God Lightning FG",
+      "value": "Demon God Lightning 2"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

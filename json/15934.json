@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #1935",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/1935.png",
+  "dna": "795a14488b97d57b787d5df98e5707f48c4d64e5",
+  "edition": 1935,
+  "date": 1649931026716,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Night"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon Closed Female",
+      "value": "Ancient Banner"
+    },
+    {
+      "trait_type": "Hand Closed Female",
+      "value": "Human Tanned + Closed Hand"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Light Open Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "School Uniform"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Purple Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Rasta Curls"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Shining Butterfly"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

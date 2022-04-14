@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #9008",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/9008.png",
+  "dna": "829105ec20f0c8a670aec1cc50be721e6b478a39",
+  "edition": 9008,
+  "date": 1649885602681,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Hell Entry"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Tanned + Brown Fan"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "None"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Long Line Mouth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Elve Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Artist Cap"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

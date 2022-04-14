@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #993",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/993.png",
+  "dna": "88d19aac4de643f412315607063034865e4ca60b",
+  "edition": 993,
+  "date": 1649928816511,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Turquoise Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Open Female",
+      "value": "Human Tanned + Open Hand"
+    },
+    {
+      "trait_type": "Weapon Open",
+      "value": "Astral Lightning Bolt"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Happy Laugh"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Forest Fairy Light Armor"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Yellow Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Dark Hair"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

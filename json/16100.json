@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #2101",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/2101.png",
+  "dna": "91d999ac3fbca701e836fadfb302b6001ace288b",
+  "edition": 2101,
+  "date": 1649931471224,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey Background"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Open Female",
+      "value": "Human Tanned + Open Hand"
+    },
+    {
+      "trait_type": "Weapon Open",
+      "value": "Dark Demon God Orb"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Happy Laugh"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Adept Robe"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Happy Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Blue Short Hair With Cowboy Hat"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Shining Butterfly"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

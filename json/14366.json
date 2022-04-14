@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #367",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/367.png",
+  "dna": "fb41fb44cc78c8a018d6682dc8b97ff8716ef30f",
+  "edition": 367,
+  "date": 1649927019825,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Park Alley"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon Closed Female",
+      "value": "Battle Axe"
+    },
+    {
+      "trait_type": "Hand Closed Female",
+      "value": "Human Tanned + Closed Hand"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Happy Laugh"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "School Uniform"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Happy Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Purple Raster Curls"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

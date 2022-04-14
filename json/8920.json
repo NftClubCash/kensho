@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8920",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8920.png",
+  "dna": "935b979535f242fc77308ee2dd1ac5a632177f87",
+  "edition": 8920,
+  "date": 1649885297041,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Forest"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "Green Soul Aura"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Kage Akumu+ Bitcoin Cash Flip"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Blue Jacket"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vocal Singing"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Senseis Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Blue Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Short Blue Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

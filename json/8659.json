@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8659",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8659.png",
+  "dna": "749e79ce829dfb496503ba3e23695da501876487",
+  "edition": 8659,
+  "date": 1649884405758,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Hell Entry"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Tribe + None"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "White Jacket"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dark Jhin Fangs"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Undead Ghul Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Hair with Cap"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

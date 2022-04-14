@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #2252",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/2252.png",
+  "dna": "41fbbdbdb5bb0f035a1e92b1736ff240868f257c",
+  "edition": 2252,
+  "date": 1649931875886,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Forest"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "Forest Fairy Arrows Quiver"
+    },
+    {
+      "trait_type": "Hand Open Female",
+      "value": "Human Tanned + Open Hand"
+    },
+    {
+      "trait_type": "Weapon Open",
+      "value": "Undead Ghoul Soul"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Lined Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Luna Kimono"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Purple Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Fukitsus Hell Horns"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Shiny Green Leaves"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

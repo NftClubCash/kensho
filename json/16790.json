@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #2791",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/2791.png",
+  "dna": "696c5cf973492015b40ee05a6fbd13980b41bc3a",
+  "edition": 2791,
+  "date": 1649933294678,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Graveyard"
+    },
+    {
+      "trait_type": "Smoke BG",
+      "value": "Smoke"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Female",
+      "value": "Human Tanned + Finger Up"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Assassine Mask"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Adept Robe"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Purple Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Saxors Hair"
+    },
+    {
+      "trait_type": "Smoke FG",
+      "value": "Smoke 1"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

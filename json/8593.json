@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8593",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8593.png",
+  "dna": "282c876f072f327e6f8b1a11e6ad371ea38cc65a",
+  "edition": 8593,
+  "date": 1649884168669,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Forest"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "Inear Headphone"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Tribe + Throwing Star"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Dark Jhin Heavy Armor"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blunt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Purple Raster Curls"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8818",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8818.png",
+  "dna": "1d320c10381b2326b6f2d4739459712da15a3dc6",
+  "edition": 8818,
+  "date": 1649884950158,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Hell Entry"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Dark Amethyst + Dark Fan"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Blue Jacket with red Shirt"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Senseis Mouth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Determined Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "Headphones"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Kensho #1362",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/1362.png",
+  "dna": "f9faa1189e7088190d8d8c275f4754f39d980caf",
+  "edition": 1362,
+  "date": 1649929697900,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "Invisible Sleeth"
+    },
+    {
+      "trait_type": "Hand Female",
+      "value": "Forest Fairy + Finger Up"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Tiny Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Adept Robe"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Heavens Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Long bright purple Hair"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

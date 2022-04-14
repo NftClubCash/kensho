@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8866",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8866.png",
+  "dna": "cdf414ee09dc158dc2e53ed4d55a8ab1369c25f4",
+  "edition": 8866,
+  "date": 1649885112629,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Turquoise Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Tanned + Gloves"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "NFT Club Shirt"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard Mouth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mocked Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Hat"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "Ball Chain"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

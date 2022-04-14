@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #432",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/432.png",
+  "dna": "13a2e827888f34e5e726245401ebf4ae13c3d931",
+  "edition": 432,
+  "date": 1649927200395,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon Closed Female",
+      "value": "Red Umbrella"
+    },
+    {
+      "trait_type": "Hand Closed Female",
+      "value": "Human Tanned + Closed Hand"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Happy Laugh"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Adept Robe"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Glowing Forest Fairy Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Long bright purple Hair"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Kensho #1350",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/1350.png",
+  "dna": "e29ac2ae7de2f97d27aaf66e48a8daf362a753e0",
+  "edition": 1350,
+  "date": 1649929671343,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Turquoise Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "Senseis Blood Crows"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "Forest Fairy Arrows Quiver"
+    },
+    {
+      "trait_type": "Hand Female",
+      "value": "Human Dark Amethyst + Bandages"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Forest Fairy Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Kimono Bikini"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Happy Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Bully Cap"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #2319",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/2319.png",
+  "dna": "65f230aa11f005db6f587cf41aa45aad08527579",
+  "edition": 2319,
+  "date": 1649932057268,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red Sea"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Open Female",
+      "value": "Human Dark Amethyst + Open Hand"
+    },
+    {
+      "trait_type": "Weapon Open",
+      "value": "Demon Temptress Flame"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Assassine Mask"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Kimono Bikini"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Happy Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Dark Jhin Antler"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Demon Temptress Fire"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

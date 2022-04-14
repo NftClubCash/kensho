@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #550",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/550.png",
+  "dna": "b1997b8edf0c13ea6dc500c5b8d0d796d4500038",
+  "edition": 550,
+  "date": 1649927514244,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moonlight"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon Closed Female",
+      "value": "Red Umbrella"
+    },
+    {
+      "trait_type": "Hand Closed Female",
+      "value": "Forest Fairy + Closed Hand"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Happy Laugh"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Luna Kimono"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Happy Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Bitcoin Cash Headband 2"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

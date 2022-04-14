@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #1007",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/1007.png",
+  "dna": "ef81c12a389b67f5d78b114c33edba8254676290",
+  "edition": 1007,
+  "date": 1649928854342,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky Temple"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "Invisible Sleeth"
+    },
+    {
+      "trait_type": "Hand Open Female",
+      "value": "Human Tanned + Open Hand"
+    },
+    {
+      "trait_type": "Weapon Open",
+      "value": "Eternal Flame"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Lined Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Priestress Robe "
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Glowing Forest Fairy Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Red Elve Hair"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

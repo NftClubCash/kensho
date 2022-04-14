@@ -1,0 +1,43 @@
+{
+  "name": "Kensho #47",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/47.png",
+  "dna": "6293b31ebb51812a78ba2d8f9b4d5c35d59020bf",
+  "edition": 47,
+  "date": 1649939421419,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey Background"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Open Ghoul",
+      "value": "Undead Ghoul + Open Hand"
+    },
+    {
+      "trait_type": "Weapon Open",
+      "value": "Burning Flame"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Vampyr Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Long bright purple Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "Neck"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Darker Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8891",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8891.png",
+  "dna": "818f18f40f43e0bb13566b0b78b68fa5bb29f93f",
+  "edition": 8891,
+  "date": 1649885198102,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Tribe + Gloves"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Polar Jacket"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Elve Fangs"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Ghul Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turquoise Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

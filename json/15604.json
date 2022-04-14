@@ -1,0 +1,43 @@
+{
+  "name": "Kensho #1605",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/1605.png",
+  "dna": "ac415c90f5d89aa79de4c63801ff48dab261c43d",
+  "edition": 1605,
+  "date": 1649930235539,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "Ghost Lights"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Female",
+      "value": "Human Tanned + Bandages"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Lined Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Luna Kimono"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Yellow Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Dark Jhin Mane"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

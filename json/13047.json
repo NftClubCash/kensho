@@ -1,0 +1,39 @@
+{
+  "name": "Kensho #48",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/48.png",
+  "dna": "39995bfb12d2ccf1712957cb972fbdec73ac1a27",
+  "edition": 48,
+  "date": 1649939423402,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Turquoise Background"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Ghoul",
+      "value": "Undead Ghoul + Throwing Star"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Prof Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Hair with Cap"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Demon Temptress Fire"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

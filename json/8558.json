@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8558",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8558.png",
+  "dna": "eb869ca02f5960bfecef9f3ddbedcc2e398d9700",
+  "edition": 8558,
+  "date": 1649884052731,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Night"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Pale + Finger Up"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Winter Jacket"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Storm Warrior Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "White Forest Jhin Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "Headphones"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

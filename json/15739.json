@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #1740",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/1740.png",
+  "dna": "32d11065d9d3814067f612c52a98c840d2f42fa8",
+  "edition": 1740,
+  "date": 1649930538220,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey Background"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "Forest Fairy Arrows Quiver"
+    },
+    {
+      "trait_type": "Weapon Closed Female",
+      "value": "Swordsman Sword"
+    },
+    {
+      "trait_type": "Hand Closed Female",
+      "value": "Human Tanned + Closed Hand"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Light Open Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Luna Kimono"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Yellow Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Bitcoin Headband"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Shiny Green Leaves"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

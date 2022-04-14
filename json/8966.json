@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8966",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8966.png",
+  "dna": "b5b99df22c4c4b6a1b1baa046e9ad74d06807d02",
+  "edition": 8966,
+  "date": 1649885456096,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Night"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human + Dark Fan"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Red Punk Jacket"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "Face Paint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed Mouth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Undead Ghul Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Black Sleephold"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Purple Raster Curls"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "Headphones"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

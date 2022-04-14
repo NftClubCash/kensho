@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8857",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8857.png",
+  "dna": "8597c8781eb994ffc7967567f9a3b33f874b317b",
+  "edition": 8857,
+  "date": 1649885080978,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Park Alley"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Tanned + BCH Cup"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Kage Akumus Jacket"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "Scar"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Toothpick"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Zombie Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Zombie Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

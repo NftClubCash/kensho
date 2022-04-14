@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8726",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8726.png",
+  "dna": "b25d1bd2c4a1fd8cd6676972b3fca3b25ec72ac2",
+  "edition": 8726,
+  "date": 1649884637144,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Park Alley"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Tanned + Gloves"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Black Elve Jacket"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile with light Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown Eyes Neutral"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saxors Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

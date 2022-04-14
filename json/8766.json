@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8766",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8766.png",
+  "dna": "48b829366a8092867ff9cf2bcef1de3ec65af93c",
+  "edition": 8766,
+  "date": 1649884772673,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Forgotten Forest"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Sensei+ Gloves"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Winter Jacket"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry Mouth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Saxors Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "NFT Club Headband"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

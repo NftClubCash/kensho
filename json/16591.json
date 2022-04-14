@@ -1,0 +1,43 @@
+{
+  "name": "Kensho #2592",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/2592.png",
+  "dna": "a24e4b92ed76cb16bdcfa0e510197d5b76f13606",
+  "edition": 2592,
+  "date": 1649932738520,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Park Alley"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Female",
+      "value": "Human Dark Amethyst + None"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Light Open Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Luna Kimono"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Yellow Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Bully Cap"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Bloody Sky"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

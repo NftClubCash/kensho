@@ -1,0 +1,43 @@
+{
+  "name": "Kensho #2526",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/2526.png",
+  "dna": "193e3037bf8e9da662e1dbca2df69a0512a1df89",
+  "edition": 2526,
+  "date": 1649932580356,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Turquoise Background"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Female",
+      "value": "Human Dark Amethyst + Throwing Star"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Tiny Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Adept Robe"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Happy Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Dark Jhin Mane"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Shining Butterfly"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

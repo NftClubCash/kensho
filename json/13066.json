@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #67",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/1.png",
+  "dna": "79adb9bd45f4616e712e24f049f3fcba61071ea1",
+  "edition": 67,
+  "date": 1649939549034,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Valley"
+    },
+    {
+      "trait_type": "Blood River BG",
+      "value": "Blood River"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "Inear Headphone"
+    },
+    {
+      "trait_type": "Weapon Closed",
+      "value": "Demon Sword"
+    },
+    {
+      "trait_type": "Hand Closed Ghoul",
+      "value": "Undead Ghoul + Closed Hand"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Kensho Army Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Blood River FG",
+      "value": "Blood River 1"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

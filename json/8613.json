@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8613",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8613.png",
+  "dna": "8947b45414230a4c556d4ce6eafbae161418c427",
+  "edition": 8613,
+  "date": 1649884242261,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Turquoise Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Tribe + Finger Up"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Blue Jacket with red Shirt"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fukitsu Senshis Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tanuki Fox Mask"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #2241",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/2241.png",
+  "dna": "e0825cb150c56199b67c446f7a3be1eb0b7ec2af",
+  "edition": 2241,
+  "date": 1649931845910,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue Background"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Open Female",
+      "value": "Forest Fairy + Open Hand"
+    },
+    {
+      "trait_type": "Weapon Open",
+      "value": "Astral Lightning Bolt"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Assassine Mask"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Adept Robe"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Dark Blue Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Guru Yaris Hair"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Blossom"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

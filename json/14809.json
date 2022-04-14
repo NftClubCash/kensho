@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #810",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/810.png",
+  "dna": "ba9669f0667c3314c98bb327dd793a51aa679268",
+  "edition": 810,
+  "date": 1649928287326,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Forgotten Forest"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon Closed Female",
+      "value": "Baseball Bat"
+    },
+    {
+      "trait_type": "Hand Closed Female",
+      "value": "Forest Fairy + Closed Hand"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Forest Fairy Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Luna Kimono"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Dark Blue Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Cap"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Kensho #40",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/40.png",
+  "dna": "bfc4e28e302134386b99c19c04c4bb1b6f19a4e5",
+  "edition": 40,
+  "date": 1649939405299,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "NFT Club Background"
+    },
+    {
+      "trait_type": "Lightning BG",
+      "value": "Astral Lightning"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Ghoul",
+      "value": "Undead Ghoul + Bandages"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Winter Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Long Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Lightning FG",
+      "value": "Astral Lightning 2"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

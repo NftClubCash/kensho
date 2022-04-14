@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #2341",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/2341.png",
+  "dna": "f4d9bde9408d8174c8589fb4db824598dec5af2e",
+  "edition": 2341,
+  "date": 1649932117447,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue Background"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Open Female",
+      "value": "Forest Fairy + Open Hand"
+    },
+    {
+      "trait_type": "Weapon Open",
+      "value": "Eternal Flame"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Happy Laugh"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Dark Blue Kimono with blue Arrows"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Yellow Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Kage Akumus Hair"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Senseis Fire Rain"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

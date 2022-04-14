@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #2027",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/2027.png",
+  "dna": "bd2ee152e2c357ec6a53ecfae34f799a24f765cd",
+  "edition": 2027,
+  "date": 1649931268544,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Turquoise Background"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon Closed Female",
+      "value": "Wood Bat"
+    },
+    {
+      "trait_type": "Hand Closed Female",
+      "value": "Human Tanned + Closed Hand"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Forest Fairy Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Dark Blue Kimono with blue Arrows"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Yellow Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Purple Hair"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Undead Sparkle"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

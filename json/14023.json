@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #24",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/24.png",
+  "dna": "5150354b38d0a8e45dd09b7bc95459b1e0510cb2",
+  "edition": 24,
+  "date": 1649926045656,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Park Alley"
+    },
+    {
+      "trait_type": "Blood River BG",
+      "value": "Blood River"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Female",
+      "value": "Human Dark Amethyst + Brown Fan"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Light Open Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Dark Blue Kimono with blue Arrows"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Happy Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Blood River FG",
+      "value": "Blood River 1"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

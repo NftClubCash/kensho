@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #158",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/158.png",
+  "dna": "81d440302bc49a776450889c8744f6c4d849abbb",
+  "edition": 158,
+  "date": 1649926441259,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Hell Entry"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "Forest Fairy Arrows Quiver"
+    },
+    {
+      "trait_type": "Weapon Closed Female",
+      "value": "Forgotten Fire Jhin Sword"
+    },
+    {
+      "trait_type": "Hand Closed Female",
+      "value": "Human Dark Amethyst + Closed Hand"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Assassine Mask"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Purple Kimono"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Purple Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Brown Hair"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

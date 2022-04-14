@@ -1,0 +1,43 @@
+{
+  "name": "Kensho #2452",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/2452.png",
+  "dna": "958940310f9b82c59c7ca570f0172b8ae0f64ba3",
+  "edition": 2452,
+  "date": 1649932414229,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue Background"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Female",
+      "value": "Human Tanned + None"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Lined Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Adept Robe"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Happy Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Guru Yaris Hair"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Eternal Flame Rain"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

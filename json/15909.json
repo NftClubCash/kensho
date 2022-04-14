@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #1910",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/1910.png",
+  "dna": "eee4d494b12efb03aab0c46cd578378016d0e06e",
+  "edition": 1910,
+  "date": 1649930964057,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey Background"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "Forest Fairy Arrows Quiver"
+    },
+    {
+      "trait_type": "Weapon Closed Female",
+      "value": "Commander Sword"
+    },
+    {
+      "trait_type": "Hand Closed Female",
+      "value": "Human Dark Amethyst + Closed Hand"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Light Open Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "School Uniform"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Dark Blue Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Dark Jhin Mane"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Fire Jhin Fire"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

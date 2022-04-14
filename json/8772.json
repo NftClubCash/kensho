@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8772",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8772.png",
+  "dna": "eaba8f21767bbccfc59a4febe997cfc6d47f0c7f",
+  "edition": 8772,
+  "date": 1649884793268,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Graveyard"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Pale + Gloves"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Prof Jacket"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Corn Toothpick"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Saxors Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Aros Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

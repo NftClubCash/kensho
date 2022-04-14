@@ -1,0 +1,43 @@
+{
+  "name": "Kensho #1469",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/1469.png",
+  "dna": "ee53fa3642fed587a70e8cae17cd3c77e4694283",
+  "edition": 1469,
+  "date": 1649929939917,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moonlight"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Female",
+      "value": "Forest Fairy + Bitcoin Cash Cup"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Forest Fairy Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Luna Kimono"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Glowing Forest Fairy Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "BCH Headband"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

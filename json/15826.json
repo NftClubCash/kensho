@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #1827",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/1827.png",
+  "dna": "9fa552c16c37e98a43e50289b2d5afd458b908f1",
+  "edition": 1827,
+  "date": 1649930753585,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey Background"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon Closed Female",
+      "value": "Swordsman Sword"
+    },
+    {
+      "trait_type": "Hand Closed Female",
+      "value": "Human Tanned + Closed Hand"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Happy Laugh"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Priestress Robe "
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Happy Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Bloody Vampyr Hair"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Fire Jhin Fire"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

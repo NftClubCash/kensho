@@ -1,0 +1,43 @@
+{
+  "name": "Kensho #1422",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/1422.png",
+  "dna": "ac0d899b1f888b2dc59bed6cd6b97af7651519db",
+  "edition": 1422,
+  "date": 1649929834618,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Turquoise Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Female",
+      "value": "Human Dark Amethyst + Bitcoin Cash Cup"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Light Open Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Purple Kimono"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Dark Blue Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Rasta Curls"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

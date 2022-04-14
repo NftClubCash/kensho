@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #1006",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/1006.png",
+  "dna": "4c9ddf4e99b63c7770585d3ca8c92b7ac21531e8",
+  "edition": 1006,
+  "date": 1649928851491,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Open Female",
+      "value": "Human Dark Amethyst + Open Hand"
+    },
+    {
+      "trait_type": "Weapon Open",
+      "value": "Burning Flame"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Happy Laugh"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Forest Fairy Light Armor"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Heavens Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Kage Akumus Hair"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

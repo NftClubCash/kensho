@@ -1,0 +1,43 @@
+{
+  "name": "Kensho #2499",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/2499.png",
+  "dna": "973b9edcef93140600670114605c23bdf771026f",
+  "edition": 2499,
+  "date": 1649932521255,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moonlight"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Female",
+      "value": "Human Dark Amethyst + None"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Lined Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Luna Kimono"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Heavens Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Tanuki Fox Mask"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Demon Temptress Fire"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

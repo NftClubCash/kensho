@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8566",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8566.png",
+  "dna": "1a344b30ebdd99367a77151faa7bd3bb21e8b66a",
+  "edition": 8566,
+  "date": 1649884078891,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Hellfire"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Tribe + Throwing Star"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Forest Jhin Robe"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Guru Yaris Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Nerdy Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rasta Curls"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

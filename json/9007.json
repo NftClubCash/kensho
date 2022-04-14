@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #9007",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/9007.png",
+  "dna": "637c841ec1a1517bae124dfa5e01da321a590571",
+  "edition": 9007,
+  "date": 1649885599080,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Heavens Gate"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "Inear Headphone"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Dark Elve + Finger Up"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Storm Warrior Master Robe"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Long Light Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mocked Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Light Rasta Curls"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

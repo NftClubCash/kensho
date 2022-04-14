@@ -1,0 +1,43 @@
+{
+  "name": "Kensho #1302",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/1302.png",
+  "dna": "244a3a81936ba957d5f1d985ece9013edd67a5d5",
+  "edition": 1302,
+  "date": 1649929567652,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Heavens Gate"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "Forest Fairy Arrows Quiver"
+    },
+    {
+      "trait_type": "Hand Female",
+      "value": "Human Dark Amethyst + Dark Fan"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Light Open Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Dark Blue Kimono with blue Arrows"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Purple Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "BCH Headband"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

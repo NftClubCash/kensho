@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8715",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8715.png",
+  "dna": "d782c359b0ef12822045e3b9c2db7e7f2efeb667",
+  "edition": 8715,
+  "date": 1649884598480,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sensei Garden"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Elve + Brown Fan"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Black Elve Jacket"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed Mouth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Demon God Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "Neck"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

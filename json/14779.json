@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #780",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/780.png",
+  "dna": "9d5fb0356f241f5277e81423b6897d988c893b80",
+  "edition": 780,
+  "date": 1649928198822,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sensei Garden"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "Forest Fairy Arrows Quiver"
+    },
+    {
+      "trait_type": "Weapon Closed Female",
+      "value": "Red Umbrella"
+    },
+    {
+      "trait_type": "Hand Closed Female",
+      "value": "Forest Fairy + Closed Hand"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Light Open Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Dark Blue Kimono with blue Arrows"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Dark Blue Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "White Forest Jhin Hair"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

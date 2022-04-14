@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8600",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8600.png",
+  "dna": "7fcea39fd1f25505edfbcf13235695298079a8fd",
+  "edition": 8600,
+  "date": 1649884193421,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Fire jinn + Brown Fan"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "White Jacket"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard Mouth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Saxors Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "Headphones"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

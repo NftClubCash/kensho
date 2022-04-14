@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #2213",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/2213.png",
+  "dna": "65cef2759ddc0072efe4465611df175174e9d606",
+  "edition": 2213,
+  "date": 1649931772537,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Turquoise Background"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Open Female",
+      "value": "Forest Fairy + Open Hand"
+    },
+    {
+      "trait_type": "Weapon Open",
+      "value": "Eternal Flame"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Lined Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Adept Robe"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Yellow Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Dark Hair"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Fire Jhin Fire"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

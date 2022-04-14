@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8881",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8881.png",
+  "dna": "b158b7216bd87e54ce78dd05752d6b3bbd5f9c0f",
+  "edition": 8881,
+  "date": 1649885164888,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red Sea"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "Green Soul Aura"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "Long Inear Headphone"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Ruby + Brown Fan"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Kimono Blue"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Aros Mouth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mocked Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "White Forest Jhin Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "Ball Chain"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8472",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8472.png",
+  "dna": "a561b0ddf5c82b9a4ef6fc93307edff9f6957373",
+  "edition": 8472,
+  "date": 1649883768231,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Park Alley"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Ruby + BCH Cup"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Kimono Green"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dark Jhin Fangs"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Eyes Side Look"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Nerdy Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden Horn"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "Neck"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

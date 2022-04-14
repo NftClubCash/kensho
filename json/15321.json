@@ -1,0 +1,43 @@
+{
+  "name": "Kensho #1322",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/1322.png",
+  "dna": "6b061b247d495cc4a899082d7c9e4e2bf3608e43",
+  "edition": 1322,
+  "date": 1649929611039,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moonlight"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "Smoke"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Female",
+      "value": "Human Tanned + Bitcoin Cash Cup"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Assassine Mask"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Luna Kimono"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Glowing Forest Fairy Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Cap"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

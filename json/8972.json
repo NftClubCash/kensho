@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8972",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8972.png",
+  "dna": "e88802cdbd1b842e3e37ce68615fc83f7840b12b",
+  "edition": 8972,
+  "date": 1649885477642,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Hell Entry"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "Green Soul Aura"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Tribe + Brown Fan"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Shirt"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "Scar"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vocal Singing"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mocked Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Purple Raster Curls"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Kensho #2397",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/2397.png",
+  "dna": "255c297d77654343b651ae45331dc1fd5ae47b9a",
+  "edition": 2397,
+  "date": 1649932275691,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue Background"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Female",
+      "value": "Human Dark Amethyst + Throwing Star"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Lined Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Luna Kimono"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Happy Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Blue Hair with Ribbon"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Dark Jhin Flames"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

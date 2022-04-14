@@ -1,0 +1,43 @@
+{
+  "name": "Kensho #2439",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/2439.png",
+  "dna": "52805d9804a9fe2a2934a932b02a8aa0e3f2e536",
+  "edition": 2439,
+  "date": 1649932382961,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Park Alley"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "Invisible Sleeth"
+    },
+    {
+      "trait_type": "Hand Female",
+      "value": "Human Tanned + Gloves"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Tiny Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Luna Kimono"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Yellow Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Bully Cap"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Demon Temptress Fire"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

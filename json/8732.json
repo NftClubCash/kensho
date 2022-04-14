@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8732",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8732.png",
+  "dna": "44801d151322744a69c0b0e9dd4341b816723e68",
+  "edition": 8732,
+  "date": 1649884658208,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sensei Garden"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Tanned + Brown Fan"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Shirt with Orange Stripe"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "Face Stripes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Long Light Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Corrupted Demon God Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Jhin Mane"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

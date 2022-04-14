@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8706",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8706.png",
+  "dna": "9e3703d6126f46be51a9d8549a620ecb37d7fe97",
+  "edition": 8706,
+  "date": 1649884567811,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Heavens Gate"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Tanned + None"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Gray Hoodie Sweater"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "Face Paint"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown Eyes Neutral"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

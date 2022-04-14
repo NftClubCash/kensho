@@ -1,0 +1,43 @@
+{
+  "name": "Kensho #2648",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/2648.png",
+  "dna": "1af04f81098e42cc49e5caa47dc419603c999d77",
+  "edition": 2648,
+  "date": 1649932886638,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Turquoise Background"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Female",
+      "value": "Human Tanned + Bandages"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Assassine Mask"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Luna Kimono"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Purple Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Shiny Blue Hair"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Shiny Green Leaves"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

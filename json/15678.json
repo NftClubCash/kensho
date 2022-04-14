@@ -1,0 +1,43 @@
+{
+  "name": "Kensho #1679",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/1679.png",
+  "dna": "5dbd7b4e5dd1c84ec5a518535f9e0b12bc73fa3e",
+  "edition": 1679,
+  "date": 1649930394291,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moonlight"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "Invisible Sleeth"
+    },
+    {
+      "trait_type": "Hand Female",
+      "value": "Human Dark Amethyst + Gloves"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Tiny Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Kimono Bikini"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Yellow Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Storm Warrior Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

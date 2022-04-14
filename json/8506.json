@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8506",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8506.png",
+  "dna": "23f3c95ca1e5a36f08a29ccefed364983a28e9de",
+  "edition": 8506,
+  "date": 1649883880337,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "Green Soul Aura"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Amethyst + Gloves"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "White Jacket"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Mouth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Elve Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

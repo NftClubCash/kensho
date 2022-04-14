@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8504",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8504.png",
+  "dna": "59806a98d6be05d1f24c9f7e633e1c61b199ae99",
+  "edition": 8504,
+  "date": 1649883872928,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Turquoise Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Dark Elve + Gloves"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Shirt"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "Face Acc"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Vocal Singing"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Jhin Mane"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

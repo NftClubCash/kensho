@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8928",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8928.png",
+  "dna": "8044887b4fcd8967667e3f616d74e62fdcd46175",
+  "edition": 8928,
+  "date": 1649885325205,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Graveyard"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "Long Inear Headphone"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Ruby + Bandages"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Lost Wind Commando Suit"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "Scar"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry Mouth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "Demon God Thorn"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

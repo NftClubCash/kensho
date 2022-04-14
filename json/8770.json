@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8770",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8770.png",
+  "dna": "104268f4447001b791a3513909078c13caf6a276",
+  "edition": 8770,
+  "date": 1649884785759,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Forgotten Forest"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Tribe + Dark Fan"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Turquoise jacket with pink Shirt and golden Chain"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Line"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Corrupted Demon God Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bully Cap"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

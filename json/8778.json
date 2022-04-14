@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8778",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8778.png",
+  "dna": "11d31e07414d3cf50d9e0feee9597505c99546dd",
+  "edition": 8778,
+  "date": 1649884814883,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Park Alley"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "Inear Headphone"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Tribe + BCH Cup"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Tank Top"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Long Light Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mocked Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Nerdy Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rasta Curls"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "Neck"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

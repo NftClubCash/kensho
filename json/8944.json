@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8944",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8944.png",
+  "dna": "6184e1f554fb959286e9beefac26527822c523f0",
+  "edition": 8944,
+  "date": 1649885380521,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky Temple"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Tanned + Dark Fan"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Shirt"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tiny Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Undead Ghul Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Bandana"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "NFT Club Headphone"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8489",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8489.png",
+  "dna": "c3f1f4ceb07c0f7fb220ad2c4cc0698bc7327061",
+  "edition": 8489,
+  "date": 1649883822985,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Valley"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human + Brown Fan"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Tank Top"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "Wound"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Demon God Fang"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tousled Blonde Hair With Brown Headband"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8865",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8865.png",
+  "dna": "89d021e1a28551631278597d6f61db423d55de21",
+  "edition": 8865,
+  "date": 1649885109327,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BCH Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Ruby + None"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Winter Jacket"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed Mouth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Beanie"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

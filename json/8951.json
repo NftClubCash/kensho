@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8951",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8951.png",
+  "dna": "37ab4e68f0ba2992da902b807a97382c2957e8f3",
+  "edition": 8951,
+  "date": 1649885403538,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Turquoise Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "Smoke"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "Ghoul Bone Chain"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Tanned + None"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Brown Leather Jacket"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed Mouth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fire Jhin Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Saxors Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

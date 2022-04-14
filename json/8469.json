@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8469",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8469.png",
+  "dna": "8e553e708b5ea10fd5de64df56161fa0fec7e1c2",
+  "edition": 8469,
+  "date": 1649883757669,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Hell Entry"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "Green Soul Aura"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Pale + Throwing Star"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Gray Hoodie Sweater"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile with light Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fire Jhin Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bully Cap"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "Headphones"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

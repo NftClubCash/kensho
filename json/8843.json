@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8843",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8843.png",
+  "dna": "98c17ffb581186c047ead2dfd25c2e422597101a",
+  "edition": 8843,
+  "date": 1649885033849,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Park Alley"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human + Brown Fan"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Kimono Blue"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Battle Shout"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fire Ghost Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark purple Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

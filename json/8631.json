@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8631",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8631.png",
+  "dna": "328f3ca73c66f80ae10006237eed0fb078b8f6a7",
+  "edition": 8631,
+  "date": 1649884307809,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Hellfire"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Tribe + Bandages"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Aros Jacket"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "Scar"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard Mouth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mocked Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Lost Demon Hat"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #950",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/950.png",
+  "dna": "9e1840197cd3fe0e3de0aca1418fc9d91e2c954d",
+  "edition": 950,
+  "date": 1649928695120,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Hellfire"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "Invisible Sleeth"
+    },
+    {
+      "trait_type": "Hand Open Female",
+      "value": "Human Dark Amethyst + Open Hand"
+    },
+    {
+      "trait_type": "Weapon Open",
+      "value": "Astral Lightning Bolt"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Light Open Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Adept Robe"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Heavens Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

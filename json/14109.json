@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #110",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/110.png",
+  "dna": "b227b47406c9a20d9680cac5592ccc95ee39e022",
+  "edition": 110,
+  "date": 1649926311354,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey Background"
+    },
+    {
+      "trait_type": "Demon God Lightning BG",
+      "value": "Demon God Lightning 1"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Female",
+      "value": "Human Tanned + None"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Lined Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Dark Blue Kimono with blue Arrows"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Dark Blue Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Kage Akugumus Horn"
+    },
+    {
+      "trait_type": "Demon God Lightning FG",
+      "value": "Demon God Lightning 2"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

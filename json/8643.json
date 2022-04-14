@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8643",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8643.png",
+  "dna": "50fb9090eeac8b0d74b8fdda6e55a8dcd2e873b3",
+  "edition": 8643,
+  "date": 1649884348425,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Valley"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "Inear Headphone"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Ruby + Dark Fan"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Gray Blue Hoodie"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Line"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "Headphones"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

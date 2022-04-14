@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8660",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8660.png",
+  "dna": "0dbb13bdbb9d92d537aca83efc20c07695f7c622",
+  "edition": 8660,
+  "date": 1649884409255,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Forgotten Forest"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Amethyst + BCH Flip"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Fukitsu Senshis Kimono"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Long Light Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Blue Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Hat"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

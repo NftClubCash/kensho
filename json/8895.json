@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8895",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8895.png",
+  "dna": "3527190387ebed235b8e325abaadabf7ce22bd53",
+  "edition": 8895,
+  "date": 1649885211986,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Hell Entry"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "Mysterious Smoke"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Amethyst + Bandages"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "White Jacket"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Zombie Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Short Hair With Cowboy Hat"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

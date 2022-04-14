@@ -1,0 +1,43 @@
+{
+  "name": "Kensho #2409",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/2409.png",
+  "dna": "d241a5034fa7e168cd4745a77933bb9c81dfa95d",
+  "edition": 2409,
+  "date": 1649932307227,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Hell Entry"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "Invisible Sleeth"
+    },
+    {
+      "trait_type": "Hand Female",
+      "value": "Human Dark Amethyst + Brown Fan"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Tiny Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Forest Fairy Light Armor"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Happy Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Saxors Hair"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Darker Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

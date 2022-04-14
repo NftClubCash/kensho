@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #1741",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/1741.png",
+  "dna": "9c863573f835b70a1586a379421e0aef445d7a76",
+  "edition": 1741,
+  "date": 1649930540564,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey Background"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon Closed Female",
+      "value": "Forgotten Fire Jhin Sword"
+    },
+    {
+      "trait_type": "Hand Closed Female",
+      "value": "Human Tanned + Closed Hand"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Forest Fairy Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Purple Kimono"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Happy Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Blue Long Hair 1"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Darker Smoke"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

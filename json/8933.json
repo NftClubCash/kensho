@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8933",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8933.png",
+  "dna": "96feffb7627cc29cda8d7397b255a46a31b4f494",
+  "edition": 8933,
+  "date": 1649885342675,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "Mysterious Smoke"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Ruby + Dark Fan"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Turquoise jacket with pink Shirt and golden Chain"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "Face Acc"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Senseis Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Kage Akugumus Horn"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

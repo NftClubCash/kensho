@@ -1,0 +1,39 @@
+{
+  "name": "Kensho #65",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/65.png",
+  "dna": "3d62c515df408fe9f998f2b53386a874d5f3c055",
+  "edition": 65,
+  "date": 1649939460984,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Valley"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Ghoul",
+      "value": "Undead Ghoul + Brown Fan"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Lost Wind Commando Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turquoise Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8422",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8422.png",
+  "dna": "10c6b729c98b46080d2eca4f6eae143ca2df5a53",
+  "edition": 8422,
+  "date": 1649883584762,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky Temple"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Ruby + None"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Blue Jacket"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turquoise Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "Ball Chain"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

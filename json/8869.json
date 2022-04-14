@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8869",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8869.png",
+  "dna": "7f5fdeac0b2145ab5c57d683168b80a05c97b34e",
+  "edition": 8869,
+  "date": 1649885122662,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Night"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Dark Amethyst + Finger Up"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Shirt with Orange Stripe"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blunt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aros Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Elve Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

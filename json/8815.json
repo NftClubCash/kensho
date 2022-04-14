@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8815",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8815.png",
+  "dna": "0c0da9c1749de59aab4d96b36d8b86712792e9b4",
+  "edition": 8815,
+  "date": 1649884939536,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Kage Akumu + Brown Fan"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Shirt"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Invisible Mouth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Corrupted Demon God Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "Ball Chain"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

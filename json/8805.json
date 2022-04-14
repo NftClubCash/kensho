@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8805",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8805.png",
+  "dna": "ff3039656b8f4416a53b2a9d0745b40dd769926c",
+  "edition": 8805,
+  "date": 1649884904128,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BCH Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human + Gloves"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Black Elve Jacket"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bitcoin Speech"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Saxors Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Long bright purple Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

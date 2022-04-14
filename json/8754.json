@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8754",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8754.png",
+  "dna": "bbb4874201597b43d6d4d495c8e14ae4387bde19",
+  "edition": 8754,
+  "date": 1649884732446,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Zombie + Bandages"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Tank Top"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "Face Acc"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile with light Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mocked Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

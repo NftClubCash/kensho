@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8903",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8903.png",
+  "dna": "8114e033ab09a815671e2c6ce76640debf189080",
+  "edition": 8903,
+  "date": 1649885239834,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Hell Entry"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Dark Amethyst + None"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Brown Kimono with Shirt"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "Face Acc"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Angry Mouth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Corrupted Demon God Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Black Sleephold"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Zombie Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

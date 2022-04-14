@@ -1,0 +1,51 @@
+{
+  "name": "Kensho #4",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/4.png",
+  "dna": "157d83b727f8a035cf2d6e31b2c467119e3a5cd5",
+  "edition": 4,
+  "date": 1649925980385,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple Background"
+    },
+    {
+      "trait_type": "Blood River BG",
+      "value": "Blood River"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon Closed Female",
+      "value": "Lantern"
+    },
+    {
+      "trait_type": "Hand Closed Female",
+      "value": "Human Dark Amethyst + Closed Hand"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Happy Laugh"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Dark Blue Kimono with blue Arrows"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Yellow Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Rasta Curls"
+    },
+    {
+      "trait_type": "Blood River FG",
+      "value": "Blood River 1"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

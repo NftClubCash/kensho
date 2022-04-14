@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8718",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8718.png",
+  "dna": "eb7674c24abea597f225a8608f7c73f3bb41e4d8",
+  "edition": 8718,
+  "date": 1649884608726,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "Long Inear Headphone"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Water jinn + None"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Forest Jhin Robe"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bubblegum"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Elve Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Long Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

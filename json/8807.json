@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8807",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8807.png",
+  "dna": "21917d67a4d42c902c04c9dd87c49596f0927332",
+  "edition": 8807,
+  "date": 1649884911176,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red Sea"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Dark Amethyst + Finger Up"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Demon God Armor"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "Face Stripes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dark Jhin Fangs"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mocked Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Long Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "Neck"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

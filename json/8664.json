@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8664",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8664.png",
+  "dna": "9e9f7a9508ef11a2ce907f517fefc4e09295528d",
+  "edition": 8664,
+  "date": 1649884423346,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sensei Garden"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Sensei + Dark Fan"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Black Bomber Jacket"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Long Line Mouth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aros Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Purple Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

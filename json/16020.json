@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #2021",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/2021.png",
+  "dna": "04c0c04816305257018ecf7bbb458fdc22b58137",
+  "edition": 2021,
+  "date": 1649931252698,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky Temple"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "Forest Fairy Arrows Quiver"
+    },
+    {
+      "trait_type": "Weapon Closed Female",
+      "value": "Legendary Bat"
+    },
+    {
+      "trait_type": "Hand Closed Female",
+      "value": "Human Tanned + Closed Hand"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Happy Laugh"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Priestress Robe "
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Purple Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Red Bandana"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Blossom"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

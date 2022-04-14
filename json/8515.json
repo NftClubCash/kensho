@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8515",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8515.png",
+  "dna": "424e4d6293a14e7d0d53b9a08de6def27d4c38a9",
+  "edition": 8515,
+  "date": 1649883912743,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moonlight"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Tanned + Throwing Star"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Kensho Army Suit"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "Face Stripes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Guru Yaris Mouth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mocked Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Hair with Ribbon"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

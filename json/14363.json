@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #364",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/364.png",
+  "dna": "27b231b1f6f0e8b89a29c2a99ebfad3087adf24f",
+  "edition": 364,
+  "date": 1649927011098,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BCH Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon Closed Female",
+      "value": "Fishing Rod"
+    },
+    {
+      "trait_type": "Hand Closed Female",
+      "value": "Human Tanned + Closed Hand"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Lined Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "School Uniform"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Dark Blue Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Green Soul Lady Hair"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

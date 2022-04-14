@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8612",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8612.png",
+  "dna": "603b4f159a299a3f463971a4b8b887c080a6acdc",
+  "edition": 8612,
+  "date": 1649884238389,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Turquoise Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Dark Amethyst + Dark Fan"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Shirt"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Bandana"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "Demon God Thorn"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

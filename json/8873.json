@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8873",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8873.png",
+  "dna": "b7e97c0550a9e0c7c04d9abbec3009169aed6218",
+  "edition": 8873,
+  "date": 1649885136535,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "Ghost Lights"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Dark Elve + Finger Up"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Turquoise jacket with pink Shirt and golden Chain"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Battle Shout"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Eyes Side Look"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

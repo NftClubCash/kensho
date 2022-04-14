@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #2003",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/2003.png",
+  "dna": "2bcf012430b8f947349ca4925d3fd45208765a2f",
+  "edition": 2003,
+  "date": 1649931204119,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey Background"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon Closed Female",
+      "value": "Great Sword"
+    },
+    {
+      "trait_type": "Hand Closed Female",
+      "value": "Human Dark Amethyst + Closed Hand"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Happy Laugh"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Forest Fairy Light Armor"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Purple Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Black Hat"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Blossom"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

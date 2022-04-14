@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8462",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8462.png",
+  "dna": "5bed348cd2f5a41bca1403a9c988c780e8214afa",
+  "edition": 8462,
+  "date": 1649883732744,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Guru Yari+ Finger Up"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Storm Warrior Master Robe"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "Wound"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Mouth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Undead Ghul Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tousled Blonde Hair With Brown Headband"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

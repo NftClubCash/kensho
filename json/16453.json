@@ -1,0 +1,43 @@
+{
+  "name": "Kensho #2454",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/2454.png",
+  "dna": "968f86ace29d9b8d7186f0be1bdc813c99612301",
+  "edition": 2454,
+  "date": 1649932418682,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Hellfire"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Female",
+      "value": "Human Dark Amethyst + Finger Up"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Lined Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Forest Fairy Light Armor"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Happy Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Purple Raster Curls"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Dark Jhin Flames"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

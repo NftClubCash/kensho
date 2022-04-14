@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #2075",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/2075.png",
+  "dna": "92b87d9a8deafa58b5942b59ce25aa1bc1a9e816",
+  "edition": 2075,
+  "date": 1649931403239,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey Background"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Open Female",
+      "value": "Human Tanned + Open Hand"
+    },
+    {
+      "trait_type": "Weapon Open",
+      "value": "Eternal Flame"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Tiny Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Adept Robe"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Purple Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Frogfan Handband"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Fire Jhin Fire"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

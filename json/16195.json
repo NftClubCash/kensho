@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #2196",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/2196.png",
+  "dna": "172965429561bdecdb1894a55a13d994b029123f",
+  "edition": 2196,
+  "date": 1649931727320,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Turquoise Background"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Open Female",
+      "value": "Human Tanned + Open Hand"
+    },
+    {
+      "trait_type": "Weapon Open",
+      "value": "Golden Flame"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Light Open Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Adept Robe"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Heavens Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Kage Akumus Hair"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Dark Jhin Flames"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8691",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8691.png",
+  "dna": "14a57cc965fb8c4a52ce81845d0d7b2cc229b8b3",
+  "edition": 8691,
+  "date": 1649884516792,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Tanned + BCH Cup"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Shirt"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Battle Shout"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Vampyr Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Hair with Ribbon"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "Demon God Thorn"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

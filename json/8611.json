@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8611",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8611.png",
+  "dna": "e4137d48a52007f738b04e2c9d4dc397f88e7f48",
+  "edition": 8611,
+  "date": 1649884234425,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sensei Garden"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Dark Amethyst + Gloves"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Shirt with Orange Stripe"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Corn Toothpick"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mocked Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Zombie Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "NFT Club Headphone"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

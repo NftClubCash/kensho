@@ -1,0 +1,43 @@
+{
+  "name": "Kensho #1298",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/1298.png",
+  "dna": "584e81d573e82830d3ddad4d3642ad1fee548d15",
+  "edition": 1298,
+  "date": 1649929558601,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "Forest Fairy Arrows Quiver"
+    },
+    {
+      "trait_type": "Hand Female",
+      "value": "Human Tanned + Brown Fan"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Lined Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "School Uniform"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Yellow Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Turquoise Hair"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

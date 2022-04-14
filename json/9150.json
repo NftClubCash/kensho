@@ -1,0 +1,39 @@
+{
+  "name": "Kensho #50",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/50.png",
+  "dna": "3087b4061e196d608a61fd271d62931c100b2f96",
+  "edition": 50,
+  "date": 1649938367667,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red Sea"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Demon",
+      "value": "Demon Temptress + Brown Fan"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Light Open Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Forest Fairy Light Armor"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Dark Blue Eyes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

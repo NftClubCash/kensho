@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #13",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/13.png",
+  "dna": "3e52540c98900f24bd011d88c5f4594119b6e686",
+  "edition": 13,
+  "date": 1649938271852,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Valley"
+    },
+    {
+      "trait_type": "Dark Soul River BG",
+      "value": "Dark Soul River"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon Closed Female",
+      "value": "Purple Umbrella"
+    },
+    {
+      "trait_type": "Hand Closed Demon",
+      "value": "Demon Temptress + Closed Hand"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Light Open Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Purple Kimono"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Glowing Forest Fairy Eyes"
+    },
+    {
+      "trait_type": "Dark Soul River FG",
+      "value": "Dark Soul River 1"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

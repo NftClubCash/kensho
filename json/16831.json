@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #2832",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/2832.png",
+  "dna": "1da436005314885c8bd1a5e96d22f693f0711223",
+  "edition": 2832,
+  "date": 1649933410086,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Turquoise Background"
+    },
+    {
+      "trait_type": "Smoke BG",
+      "value": "Smoke"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Female",
+      "value": "Human Tanned + Bandages"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Happy Laugh"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Dark Blue Kimono with blue Arrows"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Heavens Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Blue Hair with Cap"
+    },
+    {
+      "trait_type": "Smoke FG",
+      "value": "Smoke 1"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

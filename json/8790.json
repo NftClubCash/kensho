@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8790",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8790.png",
+  "dna": "396135ee94ac2154815d412875dc58cdba4bc2de",
+  "edition": 8790,
+  "date": 1649884854857,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Hellfire"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "Ghoul Bone Chain"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Amethyst + BCH Cup"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Kimono Green"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Long bright purple Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

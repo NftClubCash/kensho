@@ -1,0 +1,43 @@
+{
+  "name": "Kensho #2649",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/2649.png",
+  "dna": "9250442d2f3c10feeee86f572124bfc63731ebef",
+  "edition": 2649,
+  "date": 1649932889590,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey Background"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Female",
+      "value": "Human Tanned + Throwing Star"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Assassine Mask"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Forest Fairy Light Armor"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Yellow Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Blue Long Hair 1"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Bloody Sky"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

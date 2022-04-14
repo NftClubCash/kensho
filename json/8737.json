@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8737",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8737.png",
+  "dna": "261f8edf8c799069e9a6b37482fa879868bd0375",
+  "edition": 8737,
+  "date": 1649884675166,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Aros+ Finger Up"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Kimono Green"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Long Light Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Corrupted Demon God Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Round Blue Golden Shades"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark purple Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

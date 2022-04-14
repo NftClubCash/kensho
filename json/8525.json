@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8525",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8525.png",
+  "dna": "4b1c5b166ff34a8ed254afa55a2a3e5600d20aba",
+  "edition": 8525,
+  "date": 1649883944723,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "Ghoul Bone Chain"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Tribe + BCH Flip"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Kage Akumus Jacket"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile with light Teeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Mocked Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bully Cap"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

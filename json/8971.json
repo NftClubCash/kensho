@@ -1,0 +1,55 @@
+{
+  "name": "Kensho #8971",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/8971.png",
+  "dna": "1fcd793d8274ef41c2e96a9ee7bfabfc786811db",
+  "edition": 8971,
+  "date": 1649885473862,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Valley"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "Long Inear Headphone"
+    },
+    {
+      "trait_type": "Hand",
+      "value": "Human Pale + BCH Cup"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Fukitsu Senshis Kimono"
+    },
+    {
+      "trait_type": "Scars",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Long Light Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Elve Eyes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bully Cap"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

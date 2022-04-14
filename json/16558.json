@@ -1,0 +1,43 @@
+{
+  "name": "Kensho #2559",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/2559.png",
+  "dna": "4d507967d80cb16a9ad1f2e21152216545e36b9c",
+  "edition": 2559,
+  "date": 1649932655001,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Hell Entry"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Female",
+      "value": "Human Tanned + Throwing Star"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Light Open Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Green Soul Lady Kimono"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Dark Blue Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Turquoise Hair"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Shiny Green Leaves"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

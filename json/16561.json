@@ -1,0 +1,43 @@
+{
+  "name": "Kensho #2562",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/2562.png",
+  "dna": "3f009f84b6c6189741c3dcad133dc8420d360d4b",
+  "edition": 2562,
+  "date": 1649932662691,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Forgotten Forest"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Female",
+      "value": "Human Dark Amethyst + Bitcoin Cash Flip"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Light Open Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Adept Robe"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Purple Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "White Forest Jhin Hair"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Senseis Fire Rain"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

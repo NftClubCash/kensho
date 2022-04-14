@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #2740",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/2740.png",
+  "dna": "45f930c7f0be8a29365d7a6edc02401904c0e4ed",
+  "edition": 2740,
+  "date": 1649933143026,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Graveyard"
+    },
+    {
+      "trait_type": "Lightning BG",
+      "value": "Astral Lightning"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Female",
+      "value": "Human Dark Amethyst + Bitcoin Cash Flip"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Lined Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Forest Fairy Light Armor"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Dark Blue Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Artist Cap"
+    },
+    {
+      "trait_type": "Lightning FG",
+      "value": "Astral Lightning 2"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #3",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/3.png",
+  "dna": "c74fb227827b5c66f3a5fdf09b903a59b7b84204",
+  "edition": 3,
+  "date": 1649939309397,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue Background"
+    },
+    {
+      "trait_type": "Blood River BG",
+      "value": "Blood River"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "Long Inear Headphone"
+    },
+    {
+      "trait_type": "Weapon Closed",
+      "value": "Purple Umbrella"
+    },
+    {
+      "trait_type": "Hand Closed Ghoul",
+      "value": "Undead Ghoul + Closed Hand"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Kensho Army Suit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Light Rasta Curls"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Blood River FG",
+      "value": "Blood River 1"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

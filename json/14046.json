@@ -1,0 +1,51 @@
+{
+  "name": "Kensho #47",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/47.png",
+  "dna": "dde197481310381d351f9e6e21542c35310b44fa",
+  "edition": 47,
+  "date": 1649926119658,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moonlight"
+    },
+    {
+      "trait_type": "Dark Soul River BG",
+      "value": "Dark Soul River"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Open Female",
+      "value": "Human Tanned + Open Hand"
+    },
+    {
+      "trait_type": "Weapon Open",
+      "value": "Eternal Flame"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Assassine Mask"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Adept Robe"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Dark Blue Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Blonde Hair in Samurai Style"
+    },
+    {
+      "trait_type": "Dark Soul River FG",
+      "value": "Dark Soul River 1"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

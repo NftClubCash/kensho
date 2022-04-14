@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #2705",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/2705.png",
+  "dna": "ade0b16489f96a2134323309b9de62be5f3fab65",
+  "edition": 2705,
+  "date": 1649933041743,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey Background"
+    },
+    {
+      "trait_type": "Lightning BG",
+      "value": "Astral Lightning"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Female",
+      "value": "Human Tanned + Dark Fan"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Happy Laugh"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Luna Kimono"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Purple Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Red Bandana"
+    },
+    {
+      "trait_type": "Lightning FG",
+      "value": "Astral Lightning 2"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

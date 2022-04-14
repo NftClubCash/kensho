@@ -1,0 +1,51 @@
+{
+  "name": "Kensho #82",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/82.png",
+  "dna": "8bf03acf178a6cdbce7ccd97b02152e5d0d2a26e",
+  "edition": 82,
+  "date": 1649926223935,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey Background"
+    },
+    {
+      "trait_type": "Demon God Lightning BG",
+      "value": "Demon God Lightning 1"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon Closed Female",
+      "value": "Kage Akumus Slicer"
+    },
+    {
+      "trait_type": "Hand Closed Female",
+      "value": "Human Tanned + Closed Hand"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Happy Laugh"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Luna Kimono"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Purple Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "White Forest Jhin Hair"
+    },
+    {
+      "trait_type": "Demon God Lightning FG",
+      "value": "Demon God Lightning 2"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

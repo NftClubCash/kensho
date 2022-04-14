@@ -1,0 +1,43 @@
+{
+  "name": "Kensho #56",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/56.png",
+  "dna": "09cd4111a8539b03cbb3302108dc38d70ce3d44b",
+  "edition": 56,
+  "date": 1649939440740,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Blue Background"
+    },
+    {
+      "trait_type": "Effect BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon Closed",
+      "value": "Baseball Bat"
+    },
+    {
+      "trait_type": "Hand Closed Ghoul",
+      "value": "Undead Ghoul + Closed Hand"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Polar Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Short Blue Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

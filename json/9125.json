@@ -1,0 +1,43 @@
+{
+  "name": "Kensho #25",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/25.png",
+  "dna": "488231d181c6bd1276fc86d73d2ac882643f0f09",
+  "edition": 25,
+  "date": 1649938304350,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey Background"
+    },
+    {
+      "trait_type": "Dark Soul River BG",
+      "value": "Dark Soul River"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Demon",
+      "value": "Demon Temptress + Throwing Star"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Light Open Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Dark Blue Kimono with blue Arrows"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Glowing Forest Fairy Eyes"
+    },
+    {
+      "trait_type": "Dark Soul River FG",
+      "value": "Dark Soul River 1"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Kensho #2420",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/2420.png",
+  "dna": "9b088c5a7b5c9036ebe9abfb324e6270e5faa3dc",
+  "edition": 2420,
+  "date": 1649932336275,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Graveyard"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Female",
+      "value": "Human Dark Amethyst + Brown Fan"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Light Open Mouth"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Adept Robe"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Dark Blue Eyes"
+    },
+    {
+      "trait_type": "Head Female",
+      "value": "Dark Jhin Mane"
+    },
+    {
+      "trait_type": "Effect FG",
+      "value": "Senseis Fire Rain"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
