@@ -1,0 +1,47 @@
+{
+  "name": "Kensho #32",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/32.png",
+  "dna": "46a43fbbd681a9b8aef1d8fd05cf28cc38aba0a6",
+  "edition": 32,
+  "date": 1649938322072,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grey Background"
+    },
+    {
+      "trait_type": "Demon God Lightning BG",
+      "value": "Demon God Lightning 1"
+    },
+    {
+      "trait_type": "Accessoire Female",
+      "value": "None"
+    },
+    {
+      "trait_type": "Weapon Closed Female",
+      "value": "Wood Bat"
+    },
+    {
+      "trait_type": "Hand Closed Demon",
+      "value": "Demon Temptress + Closed Hand"
+    },
+    {
+      "trait_type": "Mouth Female",
+      "value": "Happy Laugh"
+    },
+    {
+      "trait_type": "Suit Female",
+      "value": "Dark Blue Kimono with blue Arrows"
+    },
+    {
+      "trait_type": "Eyes Female",
+      "value": "Heavens Eyes"
+    },
+    {
+      "trait_type": "Demon God Lightning FG",
+      "value": "Demon God Lightning 2"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

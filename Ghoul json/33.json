@@ -1,0 +1,43 @@
+{
+  "name": "Kensho #33",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/33.png",
+  "dna": "e32383b9bc7469c578fee4d8e5d44cdbfb3aa05a",
+  "edition": 33,
+  "date": 1649939387084,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Heavens Gate"
+    },
+    {
+      "trait_type": "Smoke BG",
+      "value": "Smoke"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Ghoul",
+      "value": "Undead Ghoul + Fukitsu Senshis Fan"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Kimono Blue"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Dark Hair"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Smoke FG",
+      "value": "Smoke 1"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

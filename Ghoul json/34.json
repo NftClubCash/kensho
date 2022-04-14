@@ -1,0 +1,43 @@
+{
+  "name": "Kensho #34",
+  "description": "Welcome to the legendary World of Kensho",
+  "image": "ipfs://NewUriToReplace/34.png",
+  "dna": "f76378b357932a529ea3b34ab83501db4aadac68",
+  "edition": 34,
+  "date": 1649939389761,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Forgotten Forest"
+    },
+    {
+      "trait_type": "Smoke BG",
+      "value": "Smoke"
+    },
+    {
+      "trait_type": "Accessoire BG",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hand Ghoul",
+      "value": "Undead Ghoul + Fukitsu Senshis Fan"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "Brown Kimono with Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tanuki Fox Mask"
+    },
+    {
+      "trait_type": "Accessoire FG",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Smoke FG",
+      "value": "Smoke 1"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
